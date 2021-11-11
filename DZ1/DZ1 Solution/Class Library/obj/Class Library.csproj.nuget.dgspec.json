@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zvoni\\Downloads\\dz1\\DZ1 Solution\\Class Library\\Class Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zvoni\\Downloads\\dz1\\DZ1 Solution\\Class Library\\Class Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zvoni\\Downloads\\dz1\\DZ1 Solution\\Class Library\\Class Library.csproj",
+        "projectName": "Class Library",
+        "projectPath": "C:\\Users\\zvoni\\Downloads\\dz1\\DZ1 Solution\\Class Library\\Class Library.csproj",
+        "packagesPath": "C:\\Users\\zvoni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zvoni\\Downloads\\dz1\\DZ1 Solution\\Class Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zvoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

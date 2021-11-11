@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DZ1/1.0.0": {
+        "runtime": {
+          "DZ1.dll": {}
+        }
+      },
+      "Class Library/1.0.0": {
+        "runtime": {
+          "Class Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
